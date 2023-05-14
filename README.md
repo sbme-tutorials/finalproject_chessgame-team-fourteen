@@ -8,13 +8,20 @@ is to apply all of the fundamental concepts of OOP in making chess engine
 ## Visit our repo:
 [github](https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen)_ChessGameOOP.
 ![limusa-cat-playing-chess](https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/d36d09ee-cb16-4f67-8bda-896cd45b34c3)
-### Let's Review the steps of this project
+## Instructions :
+please Know that we made a non traditional chess ,we change some rules of movement of pieces 
+### Edited Rules:
+- For Pawn:pawn captures (eats) the squares diagonally or the piece in front.
+- For Bishop:The bishop can move any number of squares diagonally.
+- For Knight:The knight can move in an L shape with two squares horizontally or vertically, and then three squares in the perpendicular direction.
+### Let's Review the steps of this project!
 #### first: UML (class Diagram)
 Visualization can be a helpful tool to manage some part of a design process.
 and show the overall methods and fields
 //add uml
 #### second :GUI
-we use JavaSwing to make the gui of the game.
+- we use JavaSwing to make the gui of the game.
+- GUI chess game provides a convenient and accessible way for chess enthusiasts of all levels to enjoy the game and improve their skills.
 ##### here is the libraries used:
 ```
 import javax.swing.*;
@@ -37,15 +44,26 @@ Please check our link and upload it in your device,we will wait for your opinion
 ###### We make used of:
 - ID: Carry the color and the type of All Pieces of the Board,created once pieces object is constructed.
 - Hash set: Set that contains all live Pieces in the Board.
+##### Summary of code:
+- Board representation:This representation typically includes information such as the location of each piece, which player has the next move, and whether certain rules such as castling or en passant are currently available.
+- Move generation: The engine able to generate all possible legal moves that can be made from the current game state. 
+- Highlights: Knowing all available places and not allowed for any piece.
 - Timer:You have a specific time, if you exceed it, you will lose.
+- Death: Knowing which piece died, its type, and how many pieces of its kind died
+- Score History: allows players to track their progress over time, and to compare their performance to that of other players.
+#### Developments to be added :
+- Evaluation: Once all possible moves have been generated, the engine must evaluate each one to determine which is the best move to make
+- Ai opponent in chess.
+
 ## Developers who work on this project
 - Shahd Ahmed Mahmoud Ali 
 [ Visit Shahd](https://github.com/Shahd-A-Mahmoud)
 - Shaimaa kamal 
+[Visit Shaimaa](https://github.com/Shaimaakamel474)
 - Biatress Benyameen
 - Rawan Ahmed
 - Aya tullah Ahmed
- 
+ [Visit Aya](https://github.com/Ayatullah-ahmed)
  
 ![Thanks](https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/606ed5bc-f3bf-4035-8f68-136ed9d69adb)
 
