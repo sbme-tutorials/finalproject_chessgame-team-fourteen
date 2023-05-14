@@ -7,6 +7,7 @@ Chess is a game played between two opponents on opposite sides of a board contai
 is to apply all of the fundamental concepts of OOP in making chess engine
 ## Visit our repo:
 [github](https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen)_ChessGameOOP.
+![limusa-cat-playing-chess](https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/d36d09ee-cb16-4f67-8bda-896cd45b34c3)
 ### Let's Review the steps of this project
 #### first: UML (class Diagram)
 Visualization can be a helpful tool to manage some part of a design process.
@@ -31,7 +32,12 @@ import java.util.Set;
 <img src="https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/8d7fb95f-6cb4-4b26-8ad6-582125daa2bf">
 
 #### Third: Logic Code
-Please check our link and upload it in your device.
+Please check our link and upload it in your device,we will wait for your opinion!
+##### Logic used:
+###### We make used of:
+- ID: Carry the color and the type of All Pieces of the Board,created once pieces object is constructed.
+- Hash set: Set that contains all live Pieces in the Board.
+- Timer:You have a specific time, if you exceed it, you will lose.
 ## Developers who work on this project
 - Shahd Ahmed Mahmoud Ali 
 [ Visit Shahd](https://github.com/Shahd-A-Mahmoud)
@@ -39,5 +45,9 @@ Please check our link and upload it in your device.
 - Biatress Benyameen
 - Rawan Ahmed
 - Aya tullah Ahmed
+ 
+ 
+![Thanks](https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/606ed5bc-f3bf-4035-8f68-136ed9d69adb)
 
- <img src="https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/aeb80aa0-904f-4afc-a508-00e672cc1c6d" width=1000>
+
+
