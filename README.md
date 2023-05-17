@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/s-rx3t9_)
 # Chess Game
-<img src="https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/1c943249-7471-4a66-b4c2-9b559dd66a30" width=1000, hight=200>
+![](https://github.com/Shahd-A-Mahmoud/Shahd-A-Mahmoud/assets/127022375/3b46892c-03d0-4e23-a008-6ae46b560358)
+
 
 ## About game:
 Chess is a game played between two opponents on opposite sides of a board containing 64 squares of alternating colors. Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate the other king. Checkmate happens when the king is in a position to be captured (in check) and cannot escape from capture.”
@@ -8,7 +9,8 @@ Chess is a game played between two opponents on opposite sides of a board contai
 is to apply all of the fundamental concepts of OOP in making chess engine
 ## Visit our repo:
 [github](https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen)_ChessGameOOP.
-![limusa-cat-playing-chess](https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/d36d09ee-cb16-4f67-8bda-896cd45b34c3)
+![](https://github.com/Shahd-A-Mahmoud/Shahd-A-Mahmoud/assets/127022375/f0b3bc96-f934-4557-86b0-d35881d8e2e3)
+
 ## Instructions :
 please Know that we made a non traditional chess ,we change some rules of movement of pieces 
 ### Edited Rules:
@@ -19,7 +21,8 @@ please Know that we made a non traditional chess ,we change some rules of moveme
 #### first: UML (class Diagram)
 Visualization can be a helpful tool to manage some part of a design process.
 and show the overall methods and fields
-<img src="https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/58aa5467-3b36-4d7e-86f8-7e171f9e04f8">
+![](https://github.com/Shahd-A-Mahmoud/Shahd-A-Mahmoud/assets/127022375/a51fbd9c-4cbe-4715-b538-d2d53c14f922)
+
 #### second :GUI
 - we use JavaSwing to make the gui of the game.
 - GUI chess game provides a convenient and accessible way for chess enthusiasts of all levels to enjoy the game and improve their skills.
@@ -34,10 +37,16 @@ import java.util.HashSet;
 import java.util.Set;
 ```
 ##### some snap shots:
-<img src="https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/3158d438-b882-42cb-9e27-d3716372c979">
-<img src="https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/be019769-f791-436e-b2b1-c217140b3dcd">
-<img src="https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/df5d5c1a-9c50-4f40-b3eb-c0cc6d3154b1">
-<img src="https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/8d7fb95f-6cb4-4b26-8ad6-582125daa2bf">
+![](https://github.com/Shahd-A-Mahmoud/Shahd-A-Mahmoud/assets/127022375/de5d90c2-c577-4e84-ba2f-24a61ee66dc8)
+![](https://github.com/Shahd-A-Mahmoud/Shahd-A-Mahmoud/assets/127022375/5e971f04-67a2-4629-a189-fff8d082877c)
+![](https://github.com/Shahd-A-Mahmoud/Shahd-A-Mahmoud/assets/127022375/ec935c2d-4557-48b1-9453-a2e39a641b0a)
+![](https://github.com/Shahd-A-Mahmoud/Shahd-A-Mahmoud/assets/127022375/a3798350-5395-42e7-b244-e8f4f699fd9a)
+![](https://github.com/Shahd-A-Mahmoud/Shahd-A-Mahmoud/assets/127022375/2ce603f9-6c2c-440b-8eed-39296a536b04)
+
+
+
+
+
 
 #### Third: Logic Code
 Please check our link and upload it in your device,we will wait for your opinion!
@@ -72,7 +81,12 @@ Please check our link and upload it in your device,we will wait for your opinion
 - Aya tullah Ahmed
  [Visit Aya](https://github.com/Ayatullah-ahmed)
  
-![Thanks](https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/606ed5bc-f3bf-4035-8f68-136ed9d69adb)
+![Thank u](https://github.com/Shahd-A-Mahmoud/Shahd-A-Mahmoud/assets/127022375/9570d6fe-06d7-4b3e-b438-244d73a68034)
+
+
+
+
+
 
 
 
