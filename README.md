@@ -13,7 +13,7 @@ is to apply all of the fundamental concepts of OOP in making chess engine
 please Know that we made a non traditional chess ,we change some rules of movement of pieces 
 ### Edited Rules:
 - For Pawn:pawn captures (eats) the squares diagonally or the piece in front.
-- For Bishop:The bishop can move any number of squares diagonally.
+- For Bishop:   the bishop can move up to three steps on the diagonal and one square on the horizontal axis so it changes the diagonal color.
 - For Knight:The knight can move in an L shape with two squares horizontally or vertically, and then three squares in the perpendicular direction.
 ### Let's Review the steps of this project!
 #### first: UML (class Diagram)
@@ -52,6 +52,10 @@ Please check our link and upload it in your device,we will wait for your opinion
 - Timer:You have a specific time, if you exceed it, you will lose.
 - Death: Knowing which piece died, its type, and how many pieces of its kind died
 - Score History: allows players to track their progress over time, and to compare their performance to that of other players.
+##### Watch the video of our game
+[![GHESS_Team14_Youtube]()
+
+
 #### Developments to be added :
 - Evaluation: Once all possible moves have been generated, the engine must evaluate each one to determine which is the best move to make
 - Ai opponent in chess.
@@ -62,7 +66,9 @@ Please check our link and upload it in your device,we will wait for your opinion
 - Shaimaa kamal 
 [Visit Shaimaa](https://github.com/Shaimaakamel474)
 - Biatress Benyameen
+[ Visit Biatress](https://github.com/Biatris-003)
 - Rawan Ahmed
+[Visit Rawan]()
 - Aya tullah Ahmed
  [Visit Aya](https://github.com/Ayatullah-ahmed)
  
