@@ -1,0 +1,6 @@
+aya
+aya@player.com
+5102020
+num of wins:1
+num of loses:6
+score:0
