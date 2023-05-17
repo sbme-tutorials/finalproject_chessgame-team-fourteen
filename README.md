@@ -19,7 +19,7 @@ please Know that we made a non traditional chess ,we change some rules of moveme
 #### first: UML (class Diagram)
 Visualization can be a helpful tool to manage some part of a design process.
 and show the overall methods and fields
-//add uml
+<img src="https://github.com/sbme-tutorials/finalproject_chessgame-team-fourteen/assets/127022375/58aa5467-3b36-4d7e-86f8-7e171f9e04f8">
 #### second :GUI
 - we use JavaSwing to make the gui of the game.
 - GUI chess game provides a convenient and accessible way for chess enthusiasts of all levels to enjoy the game and improve their skills.
