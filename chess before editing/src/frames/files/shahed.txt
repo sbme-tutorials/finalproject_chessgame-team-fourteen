@@ -1,0 +1,6 @@
+shahed
+shahed@player.com
+482001
+num of wins:4
+num of loses:3
+score:10

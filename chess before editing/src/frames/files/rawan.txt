@@ -1,0 +1,6 @@
+rawan
+rawan@player.com
+582001
+num of wins:3
+num of loses:3
+score:0
