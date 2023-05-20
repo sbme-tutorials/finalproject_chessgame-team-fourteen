@@ -1,6 +1,0 @@
-baty
-baty@player.com
-572003
-num of wins:6
-num of loses:3
-score:30

@@ -1,6 +1,0 @@
-shaimaa
-shaimaa@player.com
-1782003
-num of wins:5
-num of loses:3
-score:20
